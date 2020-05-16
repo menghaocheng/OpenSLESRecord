@@ -1,0 +1,2 @@
+rootProject.name='OpenSLESRecord'
+include ':app'
